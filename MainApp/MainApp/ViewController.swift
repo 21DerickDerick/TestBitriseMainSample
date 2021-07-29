@@ -6,11 +6,11 @@
 //
 
 import UIKit
-//import FirstModule
+import FirstModule
 
 class ViewController: UIViewController {
 
-    //let test = MainModule()
+    let test = FirstModuleCore()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,10 +23,12 @@ class ViewController: UIViewController {
     }
 
     @IBAction func didTapButton(_ sender: UIButton) {
+        test.openFirstModuleStoryboard()
         //test.getFirstScreen()
     }
     
     @IBAction func didTapButton2(_ sender: UIButton) {
+        test.openFirstModuleStoryboard()
         //test.getSecondScreen()
     }
 }
