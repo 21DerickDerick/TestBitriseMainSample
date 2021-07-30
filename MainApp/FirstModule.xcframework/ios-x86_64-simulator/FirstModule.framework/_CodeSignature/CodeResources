@@ -6,7 +6,7 @@
 	<dict>
 		<key>FirstModuleSB.storyboardc/FirstModuleVC.nib</key>
 		<data>
-		zRI2gaUUTBMYg4n97FH/BfLmi5k=
+		oZq7NGBdXuBURMUQCPcesy0trTQ=
 		</data>
 		<key>FirstModuleSB.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>FirstModuleSB.storyboardc/gfU-gs-bj5-view-oad-7y-dlu.nib</key>
 		<data>
-		uSLKU4cs5ak7AIEfVIcfHjr2xmE=
+		zq9OHa+Emaoxv3453lfI/LAJ/Jc=
 		</data>
 		<key>Headers/FirstModule-Swift.h</key>
 		<data>
-		hugiYHPy6/Y/cd+5Mc5Xo9UxAoA=
+		XyMKagTs4K40lR1/VzFn4+X+AVs=
 		</data>
 		<key>Headers/FirstModule.h</key>
 		<data>
@@ -26,55 +26,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eZMaP0eNV/LiBDwvY11jRS9VaGM=
+		nJi46R+5NSWWk4YPjOmOFjcyIBU=
 		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/FirstModule.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		g0RumdEh/yV2b+6zrNqG1isW6Sw=
+		/3k8Qb+Xr3C8z0gTw8KWNH9Ptio=
 		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/FirstModule.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		1EkeBIaFtLf9Hln3Ky3tMxItoBI=
-		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		IhtmeKeTDBsTz3veIejrgu0X24w=
-		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		g0RumdEh/yV2b+6zrNqG1isW6Sw=
-		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		1EkeBIaFtLf9Hln3Ky3tMxItoBI=
-		</data>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		IhtmeKeTDBsTz3veIejrgu0X24w=
+		/3k8Qb+Xr3C8z0gTw8KWNH9Ptio=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4E4a93rG7EQlPThOdOu6KIO8m8c=
+		UXkaDuxhpaMa+xnum55f1GjPNNc=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JLlNZk3mJ1xC7qoAn7UjSFobDjE=
+		BIkergevlmhiCn153e0oHqD3Nfw=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iEUB7jyVOZe+wme9Z951FdwDNwM=
+		s3UC0FMRGgD7qbvBgcXmDci+yRI=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		4E4a93rG7EQlPThOdOu6KIO8m8c=
+		UXkaDuxhpaMa+xnum55f1GjPNNc=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		JLlNZk3mJ1xC7qoAn7UjSFobDjE=
+		BIkergevlmhiCn153e0oHqD3Nfw=
 		</data>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		iEUB7jyVOZe+wme9Z951FdwDNwM=
+		s3UC0FMRGgD7qbvBgcXmDci+yRI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KC6ztflfIKT7QRlOvxnVsnT/cZauqEIRBpPhCpFaoLw=
+			se6vmsZDRlOcvLaEBK9nKi2p1qA24ygEBzn0ODIl864=
 			</data>
 		</dict>
 		<key>FirstModuleSB.storyboardc/Info.plist</key>
@@ -101,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJC7lijQNNnEZwfK7eZN5Io3lVDuwQCganzEaDrjv0o=
+			8ukzRh95zF98jBDX9sjnMTiBdo8PmNVJ4X1DheD7AbQ=
 			</data>
 		</dict>
 		<key>Headers/FirstModule-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3CL46/K8CG+dt6Zzpl0d72EgThQzHwP1yCkWk8wO5M=
+			jh/ZEacVFwVC4ZzR4xTrfxlx0oHPjVHYCB2pF5qkm2c=
 			</data>
 		</dict>
 		<key>Headers/FirstModule.h</key>
@@ -118,88 +102,60 @@
 			564qY7o8pEWHkx+WbBFHkvwMh+5kydMWWGfIdyaFqok=
 			</data>
 		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/FirstModule.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1tDqR/luX4I1hU0SKP74y+8McLV5/LgUC49b4VP7To=
+			BLwex4MGoGOY2wSReZDUGCJy0e/uIFJqfZ3iFDhx6/0=
 			</data>
 		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/FirstModule.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CNXyTiLyHdz9WA0IIPTY33vnK9Bt7ErB2LH8h1KslYs=
-			</data>
-		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1ar32+tfXwFYLcEaWDjDdNuvMu5H72NCF0fX3IVeY6c=
-			</data>
-		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T1tDqR/luX4I1hU0SKP74y+8McLV5/LgUC49b4VP7To=
-			</data>
-		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CNXyTiLyHdz9WA0IIPTY33vnK9Bt7ErB2LH8h1KslYs=
-			</data>
-		</dict>
-		<key>Modules/FirstModule.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1ar32+tfXwFYLcEaWDjDdNuvMu5H72NCF0fX3IVeY6c=
+			BLwex4MGoGOY2wSReZDUGCJy0e/uIFJqfZ3iFDhx6/0=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+X+wYjCjMI15aS2ewWbM8xA/SbhBmXrr+vwjjXL2tXw=
+			PGmM12cjxP5nV0Ys5FuRBimNaFyfAs+2X7vexiaKUWQ=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JTKR/WGh85xMxE0W48buMk4y1eyN7qQ5ooy8mmidoyo=
+			1sx8f+pdhAGAY2I7t3n0cns29onwes1i3TyfsZW+V5E=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bnk2Mdo7BlwNHbPzLc1yXkJjEO63FbHFvf+FSTWPYqQ=
+			uJ1jcOiC+Mtab/DNrIIh7kzGeVQKq8UDBkYG71X1R4c=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+X+wYjCjMI15aS2ewWbM8xA/SbhBmXrr+vwjjXL2tXw=
+			PGmM12cjxP5nV0Ys5FuRBimNaFyfAs+2X7vexiaKUWQ=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JTKR/WGh85xMxE0W48buMk4y1eyN7qQ5ooy8mmidoyo=
+			1sx8f+pdhAGAY2I7t3n0cns29onwes1i3TyfsZW+V5E=
 			</data>
 		</dict>
 		<key>Modules/FirstModule.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bnk2Mdo7BlwNHbPzLc1yXkJjEO63FbHFvf+FSTWPYqQ=
+			uJ1jcOiC+Mtab/DNrIIh7kzGeVQKq8UDBkYG71X1R4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
